@@ -1,4 +1,4 @@
-# CDA_5106_Advanced_Computer_Architecture
+# Advanced_Computer_Architecture
 
 <ins>Machine Problem 1: Implementing Cache Simulator</ins>  
 - Machine Problem Description:
